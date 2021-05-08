@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1620464322 source:c:\users\minh quy\documents\t_rex_walking_simulator\main.cpp
+	<SDL_image.h>
+	<SDL.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<queue>
+	<SDL_mixer.h>
+
+1617443326 c:\users\minh quy\documents\t_rex_walking_simulator\xu_ly_hinh_anh.h
+	<SDL_image.h>
+	<SDL.h>
+	<iostream>
+	<string>
+
+1619081802 source:c:\users\minh quy\documents\t_rex_walking_simulator\xu_ly_hinh_anh.cpp
+	<SDL_image.h>
+	<SDL.h>
+	<stdio.h>
+	<cstring>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<queue>
+	<SDL_ttf.h>
+
